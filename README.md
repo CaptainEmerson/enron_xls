@@ -48,5 +48,6 @@ Any duplicates of files in the EDRM set were removed.
 
 - <https://www.edrm.net/resources/data-sets/edrm-enron-email-data-set/>
 - <http://info.nuix.com/Enron.html>
+- <https://research.tudelft.nl/en/publications/enrons-spreadsheets-and-related-emails-a-dataset-and-analysis>
 
 [![Analytics](https://ga-beacon.appspot.com/UA-36810333-1/SheetJS/enron_xls?pixel)](https://github.com/SheetJS/enron_xls)
